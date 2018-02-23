@@ -1,0 +1,33 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+</head>
+<body>
+  
+  
+  <section>
+    <article>
+      <img src="http://via.placeholder.com/150x150" alt="">
+      <div class="person-text">
+        <h3>Person 1</h3>
+        <p>Shit they said</p>
+      </div>
+    </article>
+   <article>
+      <img src="http://via.placeholder.com/150x150" alt="">
+      <div class="person-text">
+        <h3>Person 2</h3>
+        <p>Shit they said</p>
+      </div>
+    </article>
+    <article>
+      <img src="http://via.placeholder.com/150x150" alt="">
+      <div class="person-text">
+        <h3>Person 3</h3>
+        <p>Shit they said</p>
+      </div>
+    </article>
+    
+  </section> </body>
+</html>
